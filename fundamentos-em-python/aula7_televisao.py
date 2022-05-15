@@ -21,4 +21,4 @@ class Televisao:
 televisao = Televisao() # instancia da classe
 print(televisao.ligada) 
 televisao.power()
-print(televisao.igada)
+print(televisao.ligada)
